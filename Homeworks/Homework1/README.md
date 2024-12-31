@@ -1,1 +1,1 @@
-The Homework 1 description: [here](https://cs162.org/static/hw/hw-intro/)
+The Homework 1 link: [here](https://cs162.org/static/hw/hw-intro/).
